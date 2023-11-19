@@ -1,0 +1,15 @@
+/* 自己覆蓋的樣式 */
+
+/* 全局覆蓋 */
+label{
+    font-weight: bolder;
+}
+/* 工具類 */
+.hide{
+    visibility: hidden;
+}
+
+/* color */
+.grey{
+    color:grey
+}
